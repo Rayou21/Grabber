@@ -1,4 +1,3 @@
-```powershell
 # Grabber - Windows Security Log Extractor
 # Improved Version (A)
 # Author: Ryan
@@ -53,4 +52,3 @@ $Stats | ConvertTo-Json | Out-File $StatsPath
 
 Write-Host "Logs exported to: $OutputPath"
 Write-Host "Stats exported to: $StatsPath"
-```
