@@ -294,9 +294,9 @@ if ($Detections.Count -gt 0) {
 } else {
     Write-Host "No detections triggered for this time range." -ForegroundColor Green
 }
+````
 
- ```
-
+---
 ## 🚀 Usage
 
 ### Default (last 24 hours)
